@@ -2,7 +2,7 @@
 CLS
 CLS
 ECHO OFF
-:: Technicolor Precision Biodevices by N.Sam-Soon
+
 ECHO ========================================
 ECHO This script will make sequential folders
 ECHO Must be placed in the target folder
